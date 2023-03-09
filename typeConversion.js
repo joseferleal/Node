@@ -46,3 +46,9 @@ console.log(pasaporte);
 console.log(multiplicacion);
 multiplicacion2=parseInt("1000")/parseFloat("10");
 console.log(multiplicacion2);
+//Conversión de datos
+let prueba=parseInt("1000")+parseFloat("100");
+console.log(prueba);
+
+let noEsUnNumero=parseInt("AaA");
+console.log(noEsUnNumero);
